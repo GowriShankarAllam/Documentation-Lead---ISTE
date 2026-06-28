@@ -1,7 +1,10 @@
-Documentation Lead – Indian Society for Technical Education (ISTE)
-Role: Documentation Lead
-Organization: Indian Society for Technical Education (ISTE), Mohan Babu University
-Duration: 2023 – 2025
+**Documentation Lead – Indian Society for Technical Education (ISTE)**
+
+Role: **Documentation Lead**
+
+Organization: **Indian Society for Technical Education (ISTE), Mohan Babu University**
+
+Duration: **2023 – 2025**
 
 Overview
 Served as the Documentation Lead of the Indian Society for Technical Education (ISTE) Student Chapter at Mohan Babu University, where I was responsible for planning, managing, and maintaining comprehensive documentation for technical events, workshops, seminars, hackathons, competitions, and organizational activities.
